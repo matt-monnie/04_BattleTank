@@ -5,3 +5,4 @@ Open-world head-to-head tank fight with simple AI, terrain, and advanced control
 ## Lectures
 * BT01 Introduction
 * BT02 GDD
+* BT03 Setup Github Repo
